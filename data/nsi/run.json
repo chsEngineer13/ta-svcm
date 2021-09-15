@@ -1,0 +1,14 @@
+{"Files":
+	[
+		{"Module": "core", "Name":"RefConstrPartGroups"},
+		{"Module": "core", "Name":"RefConstrParts"},
+		{"Module": "core", "Name":"RefBuildings"},
+		{"Module": "core", "Name":"RefBuildingGroups"},
+		{"Module": "core", "Name":"RefDevelopers"},
+		{"Module": "core", "Name":"RefMarks"},
+		{"Module": "core", "Name":"RefContractors"},
+		{"Module": "core", "Name":"RefDocCodes"},
+		{"Module": "core", "Name":"RefChapterCodes"},
+		{"Module": "core", "Name":"RefPhases"}
+	]
+}

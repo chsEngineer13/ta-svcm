@@ -1,0 +1,65 @@
+{
+    "@odata.context": "$metadata#RefDocCodes",
+    "value": [
+        {
+            "Code": "СО",
+            "Name": "Спецификация оборудования, изделий и материалов",
+            "Additional": false,
+            "NumericPart": true
+        },
+        {
+            "Code": "Н",
+            "Name": "Эскизный чертежобщего виданетипового изделия",
+            "Additional": false,
+            "NumericPart": false
+        },
+        {
+            "Code": "И",
+            "Name": "Рабочий чертеж строительного изделия",
+            "Additional": false,
+            "NumericPart": false
+        },
+        {
+            "Code": "ОЛ",
+            "Name": "Опросный лист",
+            "Additional": false,
+            "NumericPart": false
+        },
+        {
+            "Code": "ГЧ",
+            "Name": "Габаритный чертеж",
+            "Additional": false,
+            "NumericPart": false
+        },
+        {
+            "Code": "ЛС",
+            "Name": "Локальная смета",
+            "Additional": false,
+            "NumericPart": false
+        },
+        {
+            "Code": "РР",
+            "Name": "Расчеты",
+            "Additional": false,
+            "NumericPart": false
+        },
+        {
+            "Code": "ВР",
+            "Name": "Ведомость объемов строительныхи монтажных работ",
+            "Additional": true,
+            "NumericPart": false
+        },
+        {
+            "Code": "СЗС",
+            "Name": "Сводные заказные спецификации",
+            "Additional": true,
+            "NumericPart": false
+        },
+        {
+            "Code": "КЗ",
+            "Name": "Карта заказана систему телемеханики",
+            "Additional": true,
+            "NumericPart": false
+        }
+    ]
+}

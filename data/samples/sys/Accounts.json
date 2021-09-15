@@ -1,0 +1,1535 @@
+{
+    "@odata.context": "$metadata#AclAccounts",
+    "value": [
+        {
+            "Login": "admin",
+            "Pwd": null,
+            "FirstName": null,
+            "MiddleName": null,
+            "LastName": null,
+            "TabNum": null,
+            "Email": "sec-sd-setd@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "duskov",
+            "Pwd": null,
+            "FirstName": "Денис",
+            "MiddleName": "Борисович",
+            "LastName": "Усков",
+            "TabNum": null,
+            "Email": "duskov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "psharikov",
+            "Pwd": null,
+            "FirstName": "Полиграф",
+            "MiddleName": "Полиграфович",
+            "LastName": "Шариков",
+            "TabNum": "GPP034687",
+            "Email": "psharikov@gazgazgaz.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "1",
+            "Pwd": null,
+            "FirstName": "Leonardo",
+            "MiddleName": "Di",
+            "LastName": "Caprio",
+            "TabNum": "GPP010203",
+            "Email": "lcaprio@gazgazgaz.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "nkupriyanov",
+            "Pwd": null,
+            "FirstName": "Николай",
+            "MiddleName": "Владимирович",
+            "LastName": "Куприянов",
+            "TabNum": null,
+            "Email": "nkupriyanov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "vsidorov",
+            "Pwd": null,
+            "FirstName": "Виталий",
+            "MiddleName": "Сергеевич",
+            "LastName": "Сидоров",
+            "TabNum": null,
+            "Email": "vsidorov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "saleksandrov",
+            "Pwd": null,
+            "FirstName": "Сергей",
+            "MiddleName": "Николаевич",
+            "LastName": "Александров",
+            "TabNum": null,
+            "Email": "saleksandrov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "vmaryshev",
+            "Pwd": null,
+            "FirstName": "Владимир",
+            "MiddleName": "Сергеевич",
+            "LastName": "Марышев",
+            "TabNum": null,
+            "Email": "vmaryshev@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "psmirnov",
+            "Pwd": null,
+            "FirstName": "Павел",
+            "MiddleName": "Юрьевич",
+            "LastName": "Смирнов",
+            "TabNum": null,
+            "Email": "psmirnov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "avarin",
+            "Pwd": null,
+            "FirstName": "Алексей",
+            "MiddleName": "Асгатович",
+            "LastName": "Варин",
+            "TabNum": null,
+            "Email": "avarin@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "dproshin",
+            "Pwd": null,
+            "FirstName": "Денис",
+            "MiddleName": "Викторович",
+            "LastName": "Прошин",
+            "TabNum": null,
+            "Email": "dproshin@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "apogorely",
+            "Pwd": null,
+            "FirstName": "Александр",
+            "MiddleName": "Петрович",
+            "LastName": "Погорелый",
+            "TabNum": null,
+            "Email": "apogorely@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ymalashkin",
+            "Pwd": null,
+            "FirstName": "Юрий",
+            "MiddleName": "Викторович",
+            "LastName": "Малашкин",
+            "TabNum": null,
+            "Email": "ymalashkin@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "avvoronina",
+            "Pwd": null,
+            "FirstName": "Анастасия",
+            "MiddleName": "Викторовна",
+            "LastName": "Воронина",
+            "TabNum": null,
+            "Email": "avvoronina@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "amyasoedov",
+            "Pwd": null,
+            "FirstName": "Александр",
+            "MiddleName": "Геннадьевич",
+            "LastName": "Мясоедов",
+            "TabNum": null,
+            "Email": "amyasoedov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "bleshchenko",
+            "Pwd": null,
+            "FirstName": "Богдан",
+            "MiddleName": "Владимирович",
+            "LastName": "Лещенко",
+            "TabNum": null,
+            "Email": "bleshchenko@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ZvedenykSP@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Зведенюк",
+            "MiddleName": "Светлана",
+            "LastName": "Петровна",
+            "TabNum": null,
+            "Email": "ZvedenykSP@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ggusev",
+            "Pwd": null,
+            "FirstName": "Геннадий",
+            "MiddleName": "Геннадьевич",
+            "LastName": "Гусев",
+            "TabNum": null,
+            "Email": "ggusev@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "nkorago@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Наталья",
+            "MiddleName": "Владимировна",
+            "LastName": "Кораго",
+            "TabNum": null,
+            "Email": "nkorago@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "aprokofev@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Алексей",
+            "MiddleName": "Сергеевич",
+            "LastName": "Прокофьев",
+            "TabNum": null,
+            "Email": "aprokofev@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "dandreeva",
+            "Pwd": null,
+            "FirstName": "Дарья",
+            "MiddleName": "Юрьевна",
+            "LastName": "Андреева\r\n",
+            "TabNum": null,
+            "Email": "dandreeva@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "oalekseeva\r\n",
+            "Pwd": null,
+            "FirstName": "Ольга",
+            "MiddleName": "Александровна",
+            "LastName": "Алексеева",
+            "TabNum": null,
+            "Email": "oalekseeva@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "narlova",
+            "Pwd": null,
+            "FirstName": "Наталья",
+            "MiddleName": "Викторовна",
+            "LastName": "Арлова",
+            "TabNum": null,
+            "Email": "narlova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ogorodetskaya",
+            "Pwd": null,
+            "FirstName": "Олеся",
+            "MiddleName": "Вячеславовна",
+            "LastName": "Городецкая",
+            "TabNum": null,
+            "Email": "ogorodetskaya@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "iaristarkhov",
+            "Pwd": null,
+            "FirstName": "Иван",
+            "MiddleName": "Сергеевич",
+            "LastName": "Аристархов",
+            "TabNum": null,
+            "Email": "iaristarkhov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "abayduk",
+            "Pwd": null,
+            "FirstName": "Алексей",
+            "MiddleName": "Александрович",
+            "LastName": "Байдюк",
+            "TabNum": null,
+            "Email": "abayduk@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "abelchikova",
+            "Pwd": null,
+            "FirstName": "Алина",
+            "MiddleName": "Павловна",
+            "LastName": "Бельчикова",
+            "TabNum": null,
+            "Email": "abelchikova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "yborisova",
+            "Pwd": null,
+            "FirstName": "Юлия",
+            "MiddleName": "Андреевна",
+            "LastName": "Борисова",
+            "TabNum": null,
+            "Email": "yborisova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "abudaev",
+            "Pwd": null,
+            "FirstName": "Анатолий",
+            "MiddleName": "Александрович",
+            "LastName": "Будаев",
+            "TabNum": null,
+            "Email": "abudaev@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "evinogradova",
+            "Pwd": null,
+            "FirstName": "Елена",
+            "MiddleName": "Владимировна",
+            "LastName": "Виноградова",
+            "TabNum": null,
+            "Email": "evinogradova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "nzande",
+            "Pwd": null,
+            "FirstName": "Наталья",
+            "MiddleName": "Евгеньевна",
+            "LastName": "Занде",
+            "TabNum": null,
+            "Email": "nzande@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "lyavorskaya",
+            "Pwd": null,
+            "FirstName": "Лина",
+            "MiddleName": "Владимировна",
+            "LastName": "Яворская",
+            "TabNum": null,
+            "Email": "lyavorskaya@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "arazov",
+            "Pwd": null,
+            "FirstName": "Алексей",
+            "MiddleName": "Сергеевич",
+            "LastName": "Разов",
+            "TabNum": null,
+            "Email": "arazov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "akoshman",
+            "Pwd": null,
+            "FirstName": "Алёна",
+            "MiddleName": "Сергеевна",
+            "LastName": "Кошман",
+            "TabNum": null,
+            "Email": "akoshman@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ykonstanchuk",
+            "Pwd": null,
+            "FirstName": "Юлия",
+            "MiddleName": "Викторовна",
+            "LastName": "Констанчук",
+            "TabNum": null,
+            "Email": "ykonstanchuk@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "vpatutin",
+            "Pwd": null,
+            "FirstName": "Владислав",
+            "MiddleName": "Юрьевич",
+            "LastName": "Патутин",
+            "TabNum": null,
+            "Email": "vpatutin@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "vmenshikov",
+            "Pwd": null,
+            "FirstName": "Вадим",
+            "MiddleName": "Юрьевич",
+            "LastName": "Меньшиков",
+            "TabNum": null,
+            "Email": "vmenshikov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "tkostina",
+            "Pwd": null,
+            "FirstName": "Татьяна",
+            "MiddleName": "Владиславовна",
+            "LastName": "Костина",
+            "TabNum": null,
+            "Email": "tkostina@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "tstetsenko",
+            "Pwd": null,
+            "FirstName": "Татьяна",
+            "MiddleName": "Анатольевна",
+            "LastName": "Стеценко",
+            "TabNum": null,
+            "Email": "tstetsenko@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "Elzesser@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Андрей",
+            "MiddleName": "Викторович",
+            "LastName": "Эльзессер",
+            "TabNum": null,
+            "Email": "Elzesser@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "PonomarevAN@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Артем",
+            "MiddleName": "Николаевич",
+            "LastName": "Пономарев",
+            "TabNum": null,
+            "Email": "PonomarevAN@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "klyuevdv@vnipigaz.gazprom.ru",
+            "Pwd": null,
+            "FirstName": "Дмитрий",
+            "MiddleName": "Викторович",
+            "LastName": "Клюев",
+            "TabNum": null,
+            "Email": "klyuevdv@vnipigaz.gazprom.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "slepovichevii@vnipigaz.gazprom",
+            "Pwd": null,
+            "FirstName": "Иван",
+            "MiddleName": "Иванович",
+            "LastName": "Слеповичев",
+            "TabNum": null,
+            "Email": "slepovichevii@vnipigaz.gazprom.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ob@ggc.nnov.ru",
+            "Pwd": null,
+            "FirstName": "Олег",
+            "MiddleName": "Владимирович",
+            "LastName": "Белых",
+            "TabNum": null,
+            "Email": "ob@ggc.nnov.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ChukominIB@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Илья",
+            "MiddleName": "Борисович",
+            "LastName": "Чукомин",
+            "TabNum": null,
+            "Email": "ChukominIB@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "agordeeva@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Алина",
+            "MiddleName": "Юрьевна",
+            "LastName": "Гордеева",
+            "TabNum": null,
+            "Email": "agordeeva@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "oivanova@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Ольга",
+            "MiddleName": "Евгеньевна",
+            "LastName": "Иванова",
+            "TabNum": null,
+            "Email": "oivanova@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "tkozlova@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Татьяна",
+            "MiddleName": "Владимировна",
+            "LastName": "Козлова",
+            "TabNum": null,
+            "Email": "tkozlova@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "yekkel",
+            "Pwd": null,
+            "FirstName": "Юлия",
+            "MiddleName": "Робертовна",
+            "LastName": "Эккель",
+            "TabNum": null,
+            "Email": "yekkel@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ekochieva",
+            "Pwd": null,
+            "FirstName": "Екатерина",
+            "MiddleName": "Валериевна",
+            "LastName": "Кочиева",
+            "TabNum": null,
+            "Email": "ekochieva@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "degorov@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Дмитрий",
+            "MiddleName": "Викторович",
+            "LastName": "Егоров",
+            "TabNum": null,
+            "Email": "degorov@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "dnagibin@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Дмитрий",
+            "MiddleName": "Владимирович",
+            "LastName": "Нагибин",
+            "TabNum": null,
+            "Email": "dnagibin@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "osheshko@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Олег",
+            "MiddleName": "Леонидович",
+            "LastName": "Шешко",
+            "TabNum": null,
+            "Email": "osheshko@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "mgovenko@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Михаил",
+            "MiddleName": "Николаевич",
+            "LastName": "Говенько",
+            "TabNum": null,
+            "Email": "mgovenko@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "rkhlyustina@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Раиса",
+            "MiddleName": "Николаевна",
+            "LastName": "Хлюстина",
+            "TabNum": null,
+            "Email": "rkhlyustina@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "smeta35@ggc.nnov.ru",
+            "Pwd": null,
+            "FirstName": "Татьяна",
+            "MiddleName": "Юрьевна",
+            "LastName": "Пугина",
+            "TabNum": null,
+            "Email": "smeta35@ggc.nnov.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "cheremisinov@ggc.nnov.ru",
+            "Pwd": null,
+            "FirstName": "Леонид",
+            "MiddleName": "Львович",
+            "LastName": "Черемисинов",
+            "TabNum": null,
+            "Email": "cheremisinov@ggc.nnov.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ddmitriev",
+            "Pwd": null,
+            "FirstName": "Дмитрий",
+            "MiddleName": "Алексеевич",
+            "LastName": "Дмитриев",
+            "TabNum": null,
+            "Email": "ddmitriev@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "halieva",
+            "Pwd": null,
+            "FirstName": "Хадижат",
+            "MiddleName": "Омаровна",
+            "LastName": "Алиева",
+            "TabNum": null,
+            "Email": "halieva@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "lbayrakova",
+            "Pwd": null,
+            "FirstName": "Любовь",
+            "MiddleName": "Викторовна",
+            "LastName": "Байракова",
+            "TabNum": null,
+            "Email": "lbayrakova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "apolyakov",
+            "Pwd": null,
+            "FirstName": "Алексей",
+            "MiddleName": "Игоревич",
+            "LastName": "Поляков",
+            "TabNum": null,
+            "Email": "apolyakov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "rrogov",
+            "Pwd": null,
+            "FirstName": "Роман",
+            "MiddleName": "Сергеевич",
+            "LastName": "Рогов",
+            "TabNum": null,
+            "Email": "rrogov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "arakipova",
+            "Pwd": null,
+            "FirstName": "Алла",
+            "MiddleName": "Адхамовна",
+            "LastName": "Ракипова",
+            "TabNum": null,
+            "Email": "arakipova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "eskrepnyuk",
+            "Pwd": null,
+            "FirstName": "Елизавета",
+            "MiddleName": "Андреевна",
+            "LastName": "Скрепнюк",
+            "TabNum": null,
+            "Email": "eskrepnyuk@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "avolchkov@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Александр",
+            "MiddleName": "Анатольевич",
+            "LastName": "Волчков",
+            "TabNum": null,
+            "Email": "avolchkov@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "nlisenkova@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Наталия",
+            "MiddleName": "Викторовна",
+            "LastName": "Лисенкова",
+            "TabNum": null,
+            "Email": "nlisenkova@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ashumilin@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Андрей",
+            "MiddleName": "Дмитриевич",
+            "LastName": "Шумилин",
+            "TabNum": null,
+            "Email": "ashumilin@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "svasilev@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Сергей",
+            "MiddleName": "Леонидович",
+            "LastName": "Васильев",
+            "TabNum": null,
+            "Email": "svasilev@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "lnikolaeva@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Лилия",
+            "MiddleName": "Георгиевна",
+            "LastName": "Николаева",
+            "TabNum": null,
+            "Email": "lnikolaeva@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "mfakhrutdinov@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Марат",
+            "MiddleName": "Робертович",
+            "LastName": "Фахрутдинов",
+            "TabNum": null,
+            "Email": "mfakhrutdinov@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "Nemihina@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Елена",
+            "MiddleName": "Юрьевна",
+            "LastName": "Немихина",
+            "TabNum": null,
+            "Email": "Nemihina@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "a.prokopets@promgaz.gazprom.ru",
+            "Pwd": null,
+            "FirstName": "Андрей",
+            "MiddleName": "Игоревич",
+            "LastName": "Прокопец",
+            "TabNum": null,
+            "Email": "a.prokopets@promgaz.gazprom.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "Ivanova@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Татьяна",
+            "MiddleName": "Геннадьевна",
+            "LastName": "Иванова",
+            "TabNum": null,
+            "Email": "Ivanova@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "zbeibulatova",
+            "Pwd": null,
+            "FirstName": "Зарема",
+            "MiddleName": "Бийбулатовна",
+            "LastName": "Бейбулатова",
+            "TabNum": null,
+            "Email": "zbeibulatova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "esmirnova",
+            "Pwd": null,
+            "FirstName": "Елена",
+            "MiddleName": "Сергеевна",
+            "LastName": "Смирнова",
+            "TabNum": null,
+            "Email": "esmirnova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "oprokopieva",
+            "Pwd": null,
+            "FirstName": "Ольга",
+            "MiddleName": "Гусмановна",
+            "LastName": "Прокопьева",
+            "TabNum": null,
+            "Email": "oprokopieva@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "abiserov",
+            "Pwd": null,
+            "FirstName": "Александр",
+            "MiddleName": "Викторович",
+            "LastName": "Бисеров",
+            "TabNum": null,
+            "Email": "abiserov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "akalinichenko@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Александр",
+            "MiddleName": "Анатольевич",
+            "LastName": "Калиниченко",
+            "TabNum": null,
+            "Email": "akalinichenko@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "dandriyuk@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Дмитрий",
+            "MiddleName": "Владимирович",
+            "LastName": "Андриюк",
+            "TabNum": null,
+            "Email": "dandriyuk@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "aveseloff@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Алексей",
+            "MiddleName": "Елизарович",
+            "LastName": "Веселов",
+            "TabNum": null,
+            "Email": "aveseloff@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "akravchinsky@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Андрей",
+            "MiddleName": "Леонидович",
+            "LastName": "Кравчинский",
+            "TabNum": null,
+            "Email": "akravchinsky@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "vguban@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Виктор",
+            "MiddleName": "Николаевич",
+            "LastName": "Губань",
+            "TabNum": null,
+            "Email": "vguban@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ngots@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Надежда",
+            "MiddleName": "Ивановна",
+            "LastName": "Гоц",
+            "TabNum": null,
+            "Email": "ngots@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "aturushev@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Андрей",
+            "MiddleName": "Сергеевич",
+            "LastName": "Турушев",
+            "TabNum": null,
+            "Email": "aturushev@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "tatochenkotv@scnipigaz.ru",
+            "Pwd": null,
+            "FirstName": "Тамара",
+            "MiddleName": "Викторовна",
+            "LastName": "Таточенко",
+            "TabNum": null,
+            "Email": "tatochenkotv@scnipigaz.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "asemernya@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Анна",
+            "MiddleName": "Владимировна",
+            "LastName": "Семерня",
+            "TabNum": null,
+            "Email": "asemernya@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "S.Malinin@promgaz.gazprom.ru",
+            "Pwd": null,
+            "FirstName": "Сергей",
+            "MiddleName": "Александрович",
+            "LastName": "Малинин",
+            "TabNum": null,
+            "Email": "S.Malinin@promgaz.gazprom.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "povaroviv@vnipigaz.gazprom.ru",
+            "Pwd": null,
+            "FirstName": "Иван",
+            "MiddleName": "Викторович",
+            "LastName": "Поваров",
+            "TabNum": null,
+            "Email": "povaroviv@vnipigaz.gazprom.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "darinae@vnipigaz.gazprom.ru",
+            "Pwd": null,
+            "FirstName": "Александр",
+            "MiddleName": "Евгеньевич",
+            "LastName": "Дарьин",
+            "TabNum": null,
+            "Email": "darinae@vnipigaz.gazprom.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "MenshikovaGA@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Меншикова",
+            "MiddleName": "Галина",
+            "LastName": "Анатольевна",
+            "TabNum": null,
+            "Email": "MenshikovaGA@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "KudryavcevGA@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Кудрявцев",
+            "MiddleName": "Григорий",
+            "LastName": "Аркадьевич ",
+            "TabNum": null,
+            "Email": "KudryavcevGA@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "Suratova@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Суратова",
+            "MiddleName": "Олеся",
+            "LastName": "Викторовна",
+            "TabNum": null,
+            "Email": "Suratova@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "KhasanovMM@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Хасанов",
+            "MiddleName": "Марат",
+            "LastName": "Митхатович",
+            "TabNum": null,
+            "Email": "KhasanovMM@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "LoktevAS@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Локтев",
+            "MiddleName": "Алексей",
+            "LastName": "Сергеевич",
+            "TabNum": null,
+            "Email": "LoktevAS@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "LimarOV@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Лимарь",
+            "MiddleName": "Олег",
+            "LastName": "Владимирович",
+            "TabNum": null,
+            "Email": "LimarOV@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "KashirinGB@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Каширин",
+            "MiddleName": "Григорий",
+            "LastName": "Борисович",
+            "TabNum": null,
+            "Email": "KashirinGB@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "Bogachkov@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Богачков",
+            "MiddleName": "Иван",
+            "LastName": "Михайлович",
+            "TabNum": null,
+            "Email": "Bogachkov@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "DorokhovAV@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Дорохов",
+            "MiddleName": "Андрей",
+            "LastName": "Валерьевич",
+            "TabNum": null,
+            "Email": "DorokhovAV@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "BazaevAA@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Базаева",
+            "MiddleName": "Екатерина",
+            "LastName": "Станиславовна",
+            "TabNum": null,
+            "Email": "BazaevAA@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "MatyashevaDV@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Матяшева",
+            "MiddleName": "Дарья",
+            "LastName": "Владимировна",
+            "TabNum": null,
+            "Email": "MatyashevaDV@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "PopovaEA@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Попова",
+            "MiddleName": "Екатерина",
+            "LastName": "Алексеевна",
+            "TabNum": null,
+            "Email": "PopovaEA@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ShelepovaDV@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Шелепова",
+            "MiddleName": "Дарья",
+            "LastName": "Викторовна",
+            "TabNum": null,
+            "Email": "ShelepovaDV@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "KletsinaAS@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Клецина",
+            "MiddleName": "Александра",
+            "LastName": "Сергеевна",
+            "TabNum": null,
+            "Email": "KletsinaAS@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "MedvedevS@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Медведев",
+            "MiddleName": "Сергей",
+            "LastName": "Сергеевич",
+            "TabNum": null,
+            "Email": "MedvedevS@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "PetrovIA@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Петров",
+            "MiddleName": "Игорь",
+            "LastName": "Александрович",
+            "TabNum": null,
+            "Email": "PetrovIA@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ShevelevaKN@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Шевелева",
+            "MiddleName": "Ксения",
+            "LastName": "Николаевна",
+            "TabNum": null,
+            "Email": "ShevelevaKN@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "AbyshevaNV@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Абышева",
+            "MiddleName": "Наталья",
+            "LastName": "Владимировна ",
+            "TabNum": null,
+            "Email": "AbyshevaNV@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "GrigorukNA@tngg.ru",
+            "Pwd": null,
+            "FirstName": "Григорук",
+            "MiddleName": "Николай",
+            "LastName": "Александрович",
+            "TabNum": null,
+            "Email": "GrigorukNA@tngg.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ealpov",
+            "Pwd": null,
+            "FirstName": "Евгений",
+            "MiddleName": "Викторович",
+            "LastName": "Альпов",
+            "TabNum": null,
+            "Email": "ealpov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "aandreev",
+            "Pwd": null,
+            "FirstName": "Артём",
+            "MiddleName": "Михайлович",
+            "LastName": "Андреев",
+            "TabNum": null,
+            "Email": "aandreev@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "eantonov",
+            "Pwd": null,
+            "FirstName": "Евгений",
+            "MiddleName": "Викторович",
+            "LastName": "Антонов",
+            "TabNum": null,
+            "Email": "eantonov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "safonshin",
+            "Pwd": null,
+            "FirstName": "Сергей",
+            "MiddleName": "Александрович",
+            "LastName": "Афоньшин",
+            "TabNum": null,
+            "Email": "safonshin@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "obaburkina",
+            "Pwd": null,
+            "FirstName": "Ольга",
+            "MiddleName": "Владимировна",
+            "LastName": "Бабуркина",
+            "TabNum": null,
+            "Email": "obaburkina@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "dbalakin",
+            "Pwd": null,
+            "FirstName": "Дмитрий",
+            "MiddleName": "Борисович",
+            "LastName": "Балакин",
+            "TabNum": null,
+            "Email": "dbalakin@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "lbelova",
+            "Pwd": null,
+            "FirstName": "Любовь",
+            "MiddleName": "Ивановна",
+            "LastName": "Белова",
+            "TabNum": null,
+            "Email": "lbelova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "abelokon",
+            "Pwd": null,
+            "FirstName": "Александр",
+            "MiddleName": "Александрович",
+            "LastName": "Белоконь",
+            "TabNum": null,
+            "Email": "abelokon@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "abenkovich",
+            "Pwd": null,
+            "FirstName": "Алексей",
+            "MiddleName": "Сергеевич",
+            "LastName": "Бенькович",
+            "TabNum": null,
+            "Email": "abenkovich@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "yubormotov",
+            "Pwd": null,
+            "FirstName": "Юрий",
+            "MiddleName": "Александрович",
+            "LastName": "Бормотов",
+            "TabNum": null,
+            "Email": "yubormotov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "aborovkov",
+            "Pwd": null,
+            "FirstName": "Александр",
+            "MiddleName": "Николаевич",
+            "LastName": "Боровков",
+            "TabNum": null,
+            "Email": "aborovkov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "sborodina",
+            "Pwd": null,
+            "FirstName": "Светлана",
+            "MiddleName": "Анатольевна",
+            "LastName": "Бородина",
+            "TabNum": null,
+            "Email": "sborodina@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "vbrylev",
+            "Pwd": null,
+            "FirstName": "Виталий",
+            "MiddleName": "Валерьевич",
+            "LastName": "Брылев",
+            "TabNum": null,
+            "Email": "vbrylev@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "pburygin",
+            "Pwd": null,
+            "FirstName": "Павел",
+            "MiddleName": "Владимирович",
+            "LastName": "Бурыгин",
+            "TabNum": null,
+            "Email": "pburygin@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "abutryumov",
+            "Pwd": null,
+            "FirstName": "Алексей",
+            "MiddleName": "Николаевич",
+            "LastName": "Бутрюмов",
+            "TabNum": null,
+            "Email": "abutryumov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ebychkova",
+            "Pwd": null,
+            "FirstName": "Екатерина",
+            "MiddleName": "Юрьевна",
+            "LastName": "Бычкова",
+            "TabNum": null,
+            "Email": "ebychkova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "e.vasileva",
+            "Pwd": null,
+            "FirstName": "Елена",
+            "MiddleName": "Владимировна",
+            "LastName": "Васильева",
+            "TabNum": null,
+            "Email": "e.vasileva@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "evechkanova",
+            "Pwd": null,
+            "FirstName": "Елена",
+            "MiddleName": "Валерьевна",
+            "LastName": "Вечканова",
+            "TabNum": null,
+            "Email": "evechkanova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "avinogradov",
+            "Pwd": null,
+            "FirstName": "Алексей",
+            "MiddleName": "Андреевич",
+            "LastName": "Виноградов",
+            "TabNum": null,
+            "Email": "avinogradov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "yvishnevskaya",
+            "Pwd": null,
+            "FirstName": "Юлия",
+            "MiddleName": "Евгеньевна",
+            "LastName": "Вишневская",
+            "TabNum": null,
+            "Email": "yvishnevskaya@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "avvlasov",
+            "Pwd": null,
+            "FirstName": "Артем",
+            "MiddleName": "Валерьевич",
+            "LastName": "Власов",
+            "TabNum": null,
+            "Email": "avvlasov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "avolkov",
+            "Pwd": null,
+            "FirstName": "Александр",
+            "MiddleName": "Павлович",
+            "LastName": "Волков",
+            "TabNum": null,
+            "Email": "avolkov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "avoronin",
+            "Pwd": null,
+            "FirstName": "Андрей",
+            "MiddleName": "Васильевич",
+            "LastName": "Воронин",
+            "TabNum": null,
+            "Email": "avoronin@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "avorontsov",
+            "Pwd": null,
+            "FirstName": "Алексей",
+            "MiddleName": "Васильевич",
+            "LastName": "Воронцов",
+            "TabNum": null,
+            "Email": "avorontsov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "svoskresenskij",
+            "Pwd": null,
+            "FirstName": "Сергей",
+            "MiddleName": "Александрович",
+            "LastName": "Воскресенский",
+            "TabNum": null,
+            "Email": "svoskresenskij@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "agavrilin",
+            "Pwd": null,
+            "FirstName": "Александр",
+            "MiddleName": "Евгеньевич",
+            "LastName": "Гаврилин",
+            "TabNum": null,
+            "Email": "agavrilin@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ygavrilina",
+            "Pwd": null,
+            "FirstName": "Юлия",
+            "MiddleName": "Николаевна",
+            "LastName": "Гаврилина",
+            "TabNum": null,
+            "Email": "ygavrilina@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ogavrilova",
+            "Pwd": null,
+            "FirstName": "Ольга",
+            "MiddleName": "Германовна",
+            "LastName": "Гаврилова",
+            "TabNum": null,
+            "Email": "ogavrilova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ngavrisenko",
+            "Pwd": null,
+            "FirstName": "Нинель",
+            "MiddleName": "Ильдаровна",
+            "LastName": "Гаврисенко",
+            "TabNum": null,
+            "Email": "ngavrisenko@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "pgaldin",
+            "Pwd": null,
+            "FirstName": "Павел",
+            "MiddleName": "Андреевич",
+            "LastName": "Галдин",
+            "TabNum": null,
+            "Email": "pgaldin@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "sgalinskaya",
+            "Pwd": null,
+            "FirstName": "Светлана",
+            "MiddleName": "Дмитриевна",
+            "LastName": "Галинская",
+            "TabNum": null,
+            "Email": "sgalinskaya@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "vgalinskiy",
+            "Pwd": null,
+            "FirstName": "Вячеслав",
+            "MiddleName": "Олегович",
+            "LastName": "Галинский",
+            "TabNum": null,
+            "Email": "vgalinskiy@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "eglobelchenko",
+            "Pwd": null,
+            "FirstName": "Елена",
+            "MiddleName": "Николаевна",
+            "LastName": "Глобельченко",
+            "TabNum": null,
+            "Email": "eglobelchenko@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "oglotova",
+            "Pwd": null,
+            "FirstName": "Ольга",
+            "MiddleName": "Анатольевна",
+            "LastName": "Глотова",
+            "TabNum": null,
+            "Email": "oglotova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "mglushkova",
+            "Pwd": null,
+            "FirstName": "Марина",
+            "MiddleName": "Сергеевна",
+            "LastName": "Глушкова",
+            "TabNum": null,
+            "Email": "mglushkova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "nglushkova",
+            "Pwd": null,
+            "FirstName": "Наталия",
+            "MiddleName": "Владимировна",
+            "LastName": "Глушкова",
+            "TabNum": null,
+            "Email": "nglushkova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "egolovanov",
+            "Pwd": null,
+            "FirstName": "Евгений",
+            "MiddleName": "Геннадьевич",
+            "LastName": "Голованов",
+            "TabNum": null,
+            "Email": "egolovanov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "igolovizin",
+            "Pwd": null,
+            "FirstName": "Илья",
+            "MiddleName": "Александрович",
+            "LastName": "Головизнин",
+            "TabNum": null,
+            "Email": "igolovizin@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "agolubeva",
+            "Pwd": null,
+            "FirstName": "Александра",
+            "MiddleName": "Васильевна",
+            "LastName": "Голубева",
+            "TabNum": null,
+            "Email": "agolubeva@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "alagoncharov",
+            "Pwd": null,
+            "FirstName": "Алексей",
+            "MiddleName": "Анатольевич",
+            "LastName": "Гончаров",
+            "TabNum": null,
+            "Email": "alagoncharov@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ameshkov@gsg.spb.ru",
+            "Pwd": null,
+            "FirstName": "Александр",
+            "MiddleName": "Серафимович",
+            "LastName": "Мешков",
+            "TabNum": null,
+            "Email": "ameshkov@gsg.spb.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "igoncharova",
+            "Pwd": null,
+            "FirstName": "Ирина",
+            "MiddleName": "Олеговна",
+            "LastName": "Гончарова",
+            "TabNum": null,
+            "Email": "igoncharova@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "pgorbachev",
+            "Pwd": null,
+            "FirstName": "Петр",
+            "MiddleName": "Александрович",
+            "LastName": "Горбачев",
+            "TabNum": null,
+            "Email": "pgorbachev@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "agoryachev",
+            "Pwd": null,
+            "FirstName": "Андрей",
+            "MiddleName": "Вячеславович",
+            "LastName": "Горячев",
+            "TabNum": null,
+            "Email": "agoryachev@gazpromproject.ru",
+            "IsActive": true
+        },
+        {
+            "Login": "ngrebenuk",
+            "Pwd": null,
+            "FirstName": "Надежда",
+            "MiddleName": "Вячеславовна",
+            "LastName": "Гребенюк",
+            "TabNum": null,
+            "Email": "ngrebenuk@gazpromproject.ru",
+            "IsActive": true
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+		<!-- Connection settings -->
+		<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+		<property name="hibernate.connection.url">jdbc:postgresql://localhost/ta</property>
+		<property name="hibernate.connection.username">svcm</property>
+		<property name="hibernate.connection.password">need_to_be_better</property>
+
+		<!-- SQL dialect -->
+		<property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+
+		<!-- Print executed SQL to stdout -->
+		<property name="show_sql">true</property>
+
+		<!-- Drop and re-create all database on startup -->
+		<!-- <property name="hibernate.hbm2ddl.auto">create-drop</property> -->
+
+		<!-- Annotated entity classes -->
+		<!-- Schema sys -->
+		<mapping
+			class="ru.gazpromproject.ta.svcm.sys.model.AclAccount" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.sys.model.AclFunction" />
+		<mapping class="ru.gazpromproject.ta.svcm.sys.model.AclRole" />
+		<mapping class="ru.gazpromproject.ta.svcm.sys.model.AclGroup" />
+		<mapping class="ru.gazpromproject.ta.svcm.sys.model.AclRoleFunction" />
+		<mapping class="ru.gazpromproject.ta.svcm.sys.model.AclAccountRole" />
+		<mapping class="ru.gazpromproject.ta.svcm.sys.model.LogEvent" />
+		<mapping class="ru.gazpromproject.ta.svcm.sys.model.LogEventType" />
+
+		<!-- Schema core -->
+		<mapping
+			class="ru.gazpromproject.ta.svcm.core.model.Construction" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.core.model.ConstrPartGroupRef" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.core.model.ConstrPartRef" />
+		<mapping class="ru.gazpromproject.ta.svcm.core.model.Building" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.core.model.BuildingGroup" />
+		<mapping class="ru.gazpromproject.ta.svcm.core.model.Mark" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.core.model.Developer" />
+		<mapping class="ru.gazpromproject.ta.svcm.core.model.CObject" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.core.model.CObjectType" />
+		<mapping class="ru.gazpromproject.ta.svcm.core.model.Docset" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.core.model.Contractor" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.core.model.ChapterCode" />
+		<mapping class="ru.gazpromproject.ta.svcm.core.model.DocCode" />
+		<mapping class="ru.gazpromproject.ta.svcm.core.model.Phase" />
+		<mapping class="ru.gazpromproject.ta.svcm.core.model.Waybill" />
+		<mapping class="ru.gazpromproject.ta.svcm.core.model.Contract" />
+		<mapping class="ru.gazpromproject.ta.svcm.core.model.ContractStage" />
+		<mapping class="ru.gazpromproject.ta.svcm.core.model.Document" />
+		<mapping class="ru.gazpromproject.ta.svcm.core.model.MFile" />
+
+		<mapping
+			class="ru.gazpromproject.ta.svcm.core.model.SummaryConstruction" />
+
+		<!-- Schema stream -->
+		<mapping
+			class="ru.gazpromproject.ta.svcm.stream.model.StreamContract" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.stream.model.StreamConstruction" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.stream.model.StreamConstrPart" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.stream.model.StreamBuilding" />
+		<mapping
+			class="ru.gazpromproject.ta.svcm.stream.model.StreamDocset" />
+	</session-factory>
+</hibernate-configuration>
+
